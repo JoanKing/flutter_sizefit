@@ -7,16 +7,16 @@ flutter_sizefit 是一个简单适配的框架
 ```
 //pub方式
 dependencies:
-  flutter_snpkit: version
+  flutter_sizefit: version
 
 //导入方式
 dependencies:
-  flutter_snpkit:
+  flutter_sizefit:
     path: 项目路径
 
 //git方式
 dependencies:
-  flutter_snpkit:
+  flutter_sizefit:
     git:
       url: git@github.com:JoanKing/flutter_sizefit.git
 ```
@@ -39,3 +39,4 @@ import 'package:flutter_sizefit/flutter_sizefit.dart';
    ...
 ```
 
+###二、新增打印：JKPrint
